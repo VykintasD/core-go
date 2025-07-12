@@ -1,4 +1,4 @@
-module github.com/coinbase-samples/core-go
+module github.com/VykintasD/core-go
 
 go 1.19
 
